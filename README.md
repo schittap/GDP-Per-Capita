@@ -1,2 +1,2 @@
 # GDP-Per-Capita
-2024-25 UCLA Bruin Reserve Bank Project 3 Research Paper. Data visualization done on my own after presenting to think tank.
+2024-25 UCLA Bruin Reserve Bank Project 3 Research Paper. Since our paper read like a literature review/humanities paper, I went back and created data visualizations to supplement discussion of the topic after our midpoint and final presentations.
